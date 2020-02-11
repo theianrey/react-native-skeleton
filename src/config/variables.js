@@ -1,0 +1,5 @@
+/**
+ * * Custom variables
+ */
+
+export default {};
