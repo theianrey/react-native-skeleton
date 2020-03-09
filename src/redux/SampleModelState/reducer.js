@@ -19,8 +19,6 @@ export default (state = INITIAL_STATE, {type, payload}) => {
         _state[payload.key] = payload.value;
       });
 
-      // * ... do other stuff
-
       // * return your newly updated state
       return newImmutableState;
     }

@@ -6,7 +6,7 @@
 import React from 'react';
 import Router from 'src/boot/Router';
 import {Provider} from 'react-redux';
-import configureStore from 'src/redux/stores';
+import configureStore from 'src/redux/store';
 import {
   View,
   SafeAreaView,
