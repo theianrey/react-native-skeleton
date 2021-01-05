@@ -16,7 +16,7 @@
     "@react-native-community/viewpager": "^3.3.0",
     "@react-navigation/core": "^3.0.0",
     "apisauce": "^1.1.1",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "easy-peasy": "^3.2.6",
     "immer": "^6.0.1",
     "moment": "^2.24.0",
